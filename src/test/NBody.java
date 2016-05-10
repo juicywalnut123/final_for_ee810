@@ -67,7 +67,7 @@ public class NBody {
             	//System.out.println(p.img.charAt(7) + " | " + p.xAccel + " | " + p.yAccel);
             }
         	
-        	
+        	dfs
         	p1_sun.angle += 4.07;
         	p2_mercury.angle += 1.698;
         	p3_venus.angle += 0.4098;
