@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
 public class NBody {
-	
+	地方
     public static void main(String[] args) {
     	
     	final double T = 157788000.0;
